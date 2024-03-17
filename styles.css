@@ -1,0 +1,25 @@
+.christianBillede {
+    position: absolute;
+}
+
+.kongtainer {
+    position: relative;
+}
+
+body {
+    background-color: black;
+    color:white;
+    font-family: skøn;
+}
+
+.center {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+.centerText {
+    text-align: center;
+}
+
+@font-face { font-family: Skøn; src: url('Smuk\ skrift.ttf'); } 
